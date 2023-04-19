@@ -1,0 +1,15 @@
+Program starts
+
+3 tickets are orignally created and you can manipulate them as you like(options are Resolve ticket,Print all tickets, Print ticket statistics, Reopen ticket
+
+The menu contains 6 options 
+1. Create a new ticket  (Creates new ticket)
+2. Resolve a ticket     (The problem has been fixed and ticket can close)
+3. Reopen a ticket      (Reopen a resolved/closed ticket)
+4. Print all tickets    (Print all current tickets to see data)
+5. Print ticket statistics  (Print ticket statistics eg Tickets created, Tickes Resolved, Tickets to solve)
+6. Exit                 (Breaks Loop/Closes program)
+
+Program will run in a loop until loop is broken with "Exit" key 
+
+
